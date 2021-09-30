@@ -2,6 +2,7 @@
 
 #### Links
 - [`Github` YOU ARE HERE](https://github.com/MorenoAlexander)
+- [LinkedIn](www.linkedin.com/in/alexander-moreno-2019a)
 
 
 # Work Experience
