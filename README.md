@@ -14,6 +14,9 @@
 - ## University of Illinois @ Chicago Facilities Management - General Office Aide - July, 2017 => June 2020
 - 
 
+# Certifications
+
+- AZ-900
 
 # Education
  - ##  B.S. in Computer Science from University of Illinois at Chicago
