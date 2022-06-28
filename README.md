@@ -18,7 +18,7 @@
 - AZ-900 : Microsoft Azure Fundamentals
 
 # Education
- - ##  B.S. in Computer Science from University of Illinois at Chicago
+ - B.S. in Computer Science from University of Illinois at Chicago
 
 
 
