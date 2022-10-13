@@ -17,6 +17,7 @@
 # Certifications
 
 - AZ-900 : Microsoft Azure Fundamentals
+- AZ-204 : Developer Associate
 
 # Education
  - B.S. in Computer Science from University of Illinois at Chicago
