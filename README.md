@@ -18,6 +18,7 @@
 
 - AZ-900 : Microsoft Azure Fundamentals
 - AZ-204 : Developer Associate
+- CKAD   : Certified Kubernetes Application Developer
 
 # Education
  - B.S. in Computer Science from University of Illinois at Chicago
