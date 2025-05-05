@@ -3,16 +3,7 @@
 #### Links
 - [`Github` YOU ARE HERE](https://github.com/MorenoAlexander)
 - [GitLab](https://gitlab.com/MorenoAlexander)
-- [LinkedIn](https://www.linkedin.com/in/alexander-moreno-2019a)
 - [Website](https://alexandermoreno.com)
-
-
-# Work Experience
-- Aldi US - Software Development Engineer - Nov 8th, 2021 => Present
-- J.S Paluch - Software Engineer - Dec 28th, 2020 => Nov 2nd, 2021
-- Solomon Data Solutions - Full Stack Developer - May 20th, 2020 => December, 2020
-- Blackmore Partners - Software Developer Intern - September 3rd, 2020 => December 18th, 2020
-- University of Illinois @ Chicago Facilities Management - General Office Aide - July, 2017 => June 2020
 
 # Certifications
 
